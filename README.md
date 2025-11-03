@@ -98,10 +98,10 @@ CAR_SERVICES/
 
 ### Backend `.env`
 ```
-DB_HOST=sales-advisor.ckbouw8iick1.us-east-1.rds.amazonaws.com
-DB_USER=admin
-DB_PASSWORD=Vapi_009
-DB_NAME=car_service
+DB_HOST=your-db-host
+DB_USER=your-db-user
+DB_PASSWORD=your-db-password
+DB_NAME=dentist_appointments
 ```
 
 ### Frontend `.env`
