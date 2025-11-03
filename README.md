@@ -106,8 +106,8 @@ DB_NAME=dentist_appointments
 
 ### Frontend `.env`
 ```
-VITE_VAPI_CLIENT_KEY=cdd27103-fa81-4e2a-b624-637c3ca9937c
-VITE_VAPI_AGENT_ID=f58631d2-d9ef-457b-b780-c125df8a8f3f
+VITE_VAPI_CLIENT_KEY=your_vapi_client_key
+VITE_VAPI_AGENT_ID=your_vapi_agent_id
 ```
 
 ---
